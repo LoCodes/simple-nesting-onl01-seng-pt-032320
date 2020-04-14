@@ -47,6 +47,8 @@ def alan_kay_is_known_for
 		 programmer_hash[:alan_kay][:known_for]
 end
 
+# #dennis_ritchies_language
+#     operates on the programmer_hash and returns the value of Dennis Ritchie's language as a string
 def dennis_ritchies_language
 	programmer_hash =
  		{
