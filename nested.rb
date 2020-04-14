@@ -1,4 +1,7 @@
 
+# #hopper
+#     operates on the programmer_hash and returns the value of the :grace_hopper key
+
 def hopper
 	programmer_hash =
  		{
